@@ -10,6 +10,7 @@ namespace ProjectConnectedToGithub
     {
         static void Main(string[] args)
         {
+            // Example stuff
         }
     }
 }
